@@ -1,4 +1,4 @@
 var timer = new Array();
-timer["ligen"] = 'zhangyue';
+timer["ligen"] = '张月吃药啦';
 alert("ligen");
 alert(timer["ligen"]);
